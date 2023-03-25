@@ -35,7 +35,7 @@ $ python main.py linear_evaluation --config config/ntu60/linear_eval/linear_eval
 
 ## Visualization
 
-The [**t-SNE**](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf) visualization of the embeddings after AimCLR pre-training on NTU60-xsub.
+The [**t-SNE**](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf) visualization of the embeddings after SSRL pre-training on NTU60-xsub.
 
 ![](./vis.png)
 
