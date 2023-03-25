@@ -41,13 +41,14 @@ The [**t-SNE**](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten
 
 
 ## Trained models
-
+Pre-trained models on NTU-60 are provided in `weights` folder.
+You can download and test them with linear evaluation by changing the config file.
 
 
 
 ## Acknowledgement
 The framework of our code is extended from the following repositories. We sincerely thank the authors for releasing the codes.
-- The framework of our code is based on [CrosSCLR](https://github.com/LinguoLi/CrosSCLR).
+- The framework of our code is based on [AimCLR](https://github.com/Levigty/AimCLR).
 - The encoder is based on [ST-GCN](https://github.com/yysijie/st-gcn/blob/master/OLD_README.md).
 
 
