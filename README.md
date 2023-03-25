@@ -27,7 +27,7 @@ $ python main.py pretrain_SSRL --config config/pretext_sticlr_xsub_joint.yaml
 
 ## Linear Evaluation
 
-Example for linear evaluation of SSRL. You can change `.yaml` files in `config/ntu60/linear_eval` folder.
+Example for linear evaluation of SSRL. You can change `.yaml` files in `config` folder.
 ```bash
 # Linear_eval on NTU RGB+D xsub joint stream
 $ python main.py linear_evaluation --config config/ntu60/linear_eval/linear_eval_sticlr_xsub_joint.yaml
