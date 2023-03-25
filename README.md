@@ -33,6 +33,13 @@ Example for linear evaluation of SSRL. You can change `.yaml` files in `config` 
 $ python main.py linear_evaluation --config config/ntu60/linear_eval/linear_eval_sticlr_xsub_joint.yaml
 ```
 
+## Visualization
+
+The [**t-SNE**](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf) visualization of the embeddings after AimCLR pre-training on NTU60-xsub.
+
+![](./vis.pdf)
+
+
 ## Trained models
 
 
