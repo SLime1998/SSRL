@@ -1,6 +1,9 @@
 ## Requirements
   ![Python >=3.6](https://img.shields.io/badge/Python->=3.6-yellow.svg)    ![PyTorch >=1.6](https://img.shields.io/badge/PyTorch->=1.4-blue.svg)
-
+  
+## SSRL
+  This is an official PyTorch implementation of "SSRL: Self-supervised Spatial-temporal Representation Learning for 3D Action recognition"
+  
 ## Data Preparation
 - Download the raw data of [NTU RGB+D](https://github.com/shahroudy/NTURGB-D) and [PKU-MMD](https://www.icst.pku.edu.cn/struct/Projects/PKUMMD.html).
 - For NTU RGB+D dataset, preprocess data with `tools/ntu_gendata.py`. For PKU-MMD dataset, preprocess data with `tools/pku_part1_gendata.py`.
